@@ -1,0 +1,5 @@
+**View Binding**
+	  
+**Intents**
+	  
+**Toasts**
